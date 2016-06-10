@@ -1,4 +1,6 @@
-# Ch 1
+# Notes
+
+# Exercises
 
 ## Exercise 1
 _Implement, as best as you can, the identity function in your favorite language (or the second favorite, if your favorite language happens to be Haskell)._

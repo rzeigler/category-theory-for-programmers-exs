@@ -1,4 +1,6 @@
-# Ch 3
+# Notes
+
+# Exercises
 
 ## Exercise 1
 
