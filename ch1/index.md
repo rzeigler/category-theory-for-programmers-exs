@@ -1,4 +1,6 @@
 # Notes
+The key aspect of identity is that it is a unit with response to composition.
+
 
 # Exercises
 
