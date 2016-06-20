@@ -33,6 +33,11 @@ optional<double> safe_root(double x) {
     else return optional<double>();
 }
 
+optional<double> safe_reciprocal(double x) {
+    if (x != 0) return optional<double>(1/x)
+    else return optional<double>();
+}
+
 int main(int argc, char *argv[]) {
-    return 0;
+    auto safe_root_reciprocal = optional<double>.compose<double, double, double>(safe_root, safe_reciprocal)
 }
